@@ -3,4 +3,4 @@ def saludo(nombre: str) -> str:
 
 if __name__ == "__main__":
     nombre = input("¿Tu nombre? ")
-    print(saludo(viv.nl))
+    print(saludo(nombre))
