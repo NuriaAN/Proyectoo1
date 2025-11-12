@@ -2,5 +2,5 @@ def saludo(nombre: str) -> str:
     return f"Hola, {nombre}! Bienvenido a Git."
 
 if __name__ == "__main__":
-    nombre = input("¿Tu nombre? ")
+    nombre = input("¿Tu apellido? ")
     print(saludo(nombre))
